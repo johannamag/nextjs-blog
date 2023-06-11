@@ -1,0 +1,16 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "next": "3.0.1-beta.20",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-icons": "4.8.0",
+    "react-slick": "0.29.0",
+    "slick-carousel": "1.8.1",
+    "typescript": "5.0.2"
+  }
+}
